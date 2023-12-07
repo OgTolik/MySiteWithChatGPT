@@ -68,4 +68,6 @@ for document in folder_1.document:
 # Удаляем папку
 folder_1.delete()
 
-sdbdsddfv  # test
+sdbdsddfv  # test regesdvfsdvsdsd
+sfdvsd
+sdv
